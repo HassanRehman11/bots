@@ -37,8 +37,8 @@ This is a **Streamlit web app** that uses **OpenAI's GPT-4o vision model** to an
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/dental-health-assistant.git
-cd dental-health-assistant
+git clone https://github.com/HassanRehman11/bots.git
+cd bots/dental-health-assistant
 ```
 
 #### 2. Create a Virtual Environment

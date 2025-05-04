@@ -63,8 +63,8 @@ This chatbot is designed to guide users through the divorce process with empathy
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/divorce-assistant-bot.git
-    cd divorce-assistant-bot
+    git clone https://github.com/HassanRehman11/bots.git
+    cd bots/divorce-assistant-bot
     ```
 
 2. Install dependencies:

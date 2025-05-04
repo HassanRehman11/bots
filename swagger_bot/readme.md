@@ -31,8 +31,8 @@ pip install streamlit openai pyyaml requests
    ```bash
    ```
 
-git clone [https://github.com/your-username/swagger-chatbot.git](https://github.com/your-username/swagger-chatbot.git)
-cd swagger-chatbot
+git clone [https://github.com/HassanRehman11/bots.git](https://github.com/HassanRehman11/bots.git)
+cd bots/swagger-chatbot
 
 ````
 
