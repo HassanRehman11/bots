@@ -1,7 +1,7 @@
 # Swagger Chatbot 🚀
 
 A Streamlit application that lets you interact with Swagger/OpenAPI documentation using natural language queries via OpenAI GPT-4.
-
+![demo](https://github.com/HassanRehman11/bots/blob/master/swagger_bot/bot.png) *(Optional)*
 ## Features
 
 * **Dynamic Swagger URL Input**: Enter any public Swagger/OpenAPI URL (YAML or JSON).

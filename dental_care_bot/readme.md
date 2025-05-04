@@ -19,7 +19,7 @@ This is a **Streamlit web app** that uses **OpenAI's GPT-4o vision model** to an
 
 ### 🚀 Demo
 
-![demo](https://your-demo-image-or-gif-url.com) *(Optional)*
+![demo](https://github.com/HassanRehman11/bots/blob/master/dental_care_bot/bot.png) *(Optional)*
 
 ---
 

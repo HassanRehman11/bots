@@ -1,5 +1,5 @@
 # Divorce Assistance Bot 💔
-![Divorce Assistant Bot](bot.png)
+![Divorce Assistant Bot](https://github.com/HassanRehman11/bots/blob/master/divorce_assistance_bot/bot.png)
 This chatbot is designed to guide users through the divorce process with empathy, legal insights, and practical tools. The bot provides location-specific legal advice, generates legal documents, schedules appointments, and offers a divorce process checklist.
 
 ## Features
