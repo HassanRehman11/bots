@@ -61,7 +61,6 @@ pip install streamlit openai pyyaml requests
 ## Example
 
 ![Screenshot of the app](swaggerbot.png)
-
 ```bash
 Enter URL: https://petstore.swagger.io/v2/swagger.json
 Ask: "How do I add a new pet?"
@@ -76,6 +75,6 @@ Matched Endpoint:
 curl -X POST https://petstore.swagger.io/v2/pet \
   -H "Content-Type: application/json" \
   -d '{"name": "Fluffy", "photoUrls": []}'
-````
+
 
 ```
