@@ -30,7 +30,7 @@ pip install streamlit openai pyyaml requests
 
    ```bash
    
-   ```
+   
 
       git clone [https://github.com/HassanRehman11/bots.git](https://github.com/HassanRehman11/bots.git)
       cd bots/swagger-chatbot
@@ -47,7 +47,7 @@ pip install streamlit openai pyyaml requests
 3. Run the app:
 
    ```bash
-   ```
+  
 
       streamlit run app.py
 
