@@ -1,7 +1,7 @@
 # Swagger Chatbot 🚀
 
 A Streamlit application that lets you interact with Swagger/OpenAPI documentation using natural language queries via OpenAI GPT-4.
-![demo](https://github.com/HassanRehman11/bots/blob/master/swagger_bot/bot.png) *(Optional)*
+![demo](./swaggerbot.png) 
 ## Features
 
 * **Dynamic Swagger URL Input**: Enter any public Swagger/OpenAPI URL (YAML or JSON).
@@ -29,10 +29,11 @@ pip install streamlit openai pyyaml requests
 1. Clone the repository:
 
    ```bash
+   
    ```
 
-git clone [https://github.com/HassanRehman11/bots.git](https://github.com/HassanRehman11/bots.git)
-cd bots/swagger-chatbot
+      git clone [https://github.com/HassanRehman11/bots.git](https://github.com/HassanRehman11/bots.git)
+      cd bots/swagger-chatbot
 
 ````
 
@@ -48,7 +49,7 @@ cd bots/swagger-chatbot
    ```bash
    ```
 
-streamlit run app.py
+      streamlit run app.py
 
 ````
 
